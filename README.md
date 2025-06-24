@@ -7,6 +7,7 @@ A prediction-based war game built with Ruby. (Demo & Screenshots only)
 ![Game Logo](images/logo.png)
 
 🎯 A prediction-based war game built with Ruby.
+Ruby Gems used - Sinatra, webrick, Rails, bundler
 
 > This is a **showcase repo**. The source code is private.
 
