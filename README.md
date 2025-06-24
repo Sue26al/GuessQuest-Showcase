@@ -1,4 +1,5 @@
 # GuessQuest-Showcase
+
 A prediction-based war game built with Ruby. (Demo & Screenshots only)
 
 # GuessQuest
@@ -18,11 +19,10 @@ GuessQuest is a war-themed strategy game where the player must predict the enemy
 ![Screenshot 1](images/start.png)
 ![Screenshot 2](images/name.png)
 ![Screenshot 3](images/in-game.png)
-
-## 🔗 Playable Version
-
-You can try a playable version here (if available):  
-👉 [Play GuessQuest](https://your-link.com)
+![Screenshot 3](images/prediction1.png)
+![Screenshot 3](images/prediction2.png)
+![Screenshot 3](images/win.png)
+![Gif](images/game_gif.gif)
 
 ---
 
